@@ -1,0 +1,7 @@
+{
+  "model": "distilbert",
+  "accuracy": 0.9,
+  "macro_f1": 0.886,
+  "train_time_s": 42.4,
+  "infer_ms_per_item": 0.441
+}

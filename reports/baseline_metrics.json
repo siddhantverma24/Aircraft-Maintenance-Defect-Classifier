@@ -1,0 +1,7 @@
+{
+  "model": "baseline",
+  "accuracy": 0.9178,
+  "macro_f1": 0.9078,
+  "train_time_s": 0.6,
+  "infer_ms_per_item": 0.09
+}

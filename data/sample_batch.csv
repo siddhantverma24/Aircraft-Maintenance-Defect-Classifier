@@ -1,0 +1,41 @@
+text,ata,chapter_name
+duct not operating in APU bay,49,APU
+obs reelay leaking near aft fuselage,49,APU
+reeported fitting chafed near flight deck,34,Navigation
+cabin temp not controlling during descent. outbd mix manifold reeplaced IAW FIM. test satisfactory,21,Air Conditioning
+hyd pressure fluctuating on VT-RLA Troubleshooting IAW AMM carried out hyd supply shutoff valve reset,29,Hydraulic Power
+Obs EGT high on takeoff. oil filter P/N 452665-7 reset. leak check ok.,72,Engine
+GPWS INOP.,34,Navigation
+No.1 acess panel leaking at pack bay during daily check,36,Pneumatic
+reported bracket intermittent near engine core area,72,Engine
+"seat not reclining on VT-SYG. Troubleshooting per TSM carried out, PSU panel changed.",25,Equipment / Furnishings
+"right high stage regulator faulty. Removed P/N 9037M10P15 SN D308587, installed new. no fault found on retest",36,Pneumatic
+LH uplock actuator worn Removed P/N 77E4922 S/N P797760 installed new test satisfactory,32,Landing Gear
+obs line intermittent near wing root,36,Pneumatic
+"VT-BXK L/H gear door: oleo servicing required during walkaround, repaired.",32,Landing Gear
+EGT HIGH ON TAKEOFF DURING TAXI. R/H COMBUSTOR CLANED AND RE-TESTED IAW FIM. LEAK CHECK OK.,72,Engine
+RADIO ALTIMETER REPLACED DUE TO IRS FAULT LIGHT,34,Navigation
+"gasket in flight deck intermittent, re-torqued as per AMM",25,Equipment / Furnishings
+cockpit seat changed due to galley oven inop,25,Equipment / Furnishings
+"aft vacuum toilet inop. Removed P/N 79N1416 S/N B192883, instlaled new",38,Water / Waste
+Noticed ALT disagree. FMC P/N R24413-03 repaired. found satisfactory,34,Navigation
+"RIGHT N1 SENSOR FAULTY. REMOVED P/N 87D8361 S/N F511263, INSTALLED NEW. FUNCTIONAL TEST PASSED.",72,Engine
+relay leaking in flight deck,34,Navigation
+Crew reported ENG CONTROL light. fan cowl reading 2980 psi. re-secured ref AMM 72-02-43,72,Engine
+cargo door not closing,52,Doors
+"RH gear downlock u/s. Removed P/N F53532-29 S/N M900212, installed new. functional test passed",32,Landing Gear
+"line in galley area found damaged, rectified ref AMM",25,Equipment / Furnishings
+inbd high stage regulator DUAL BLEED light obs on arrival.,36,Pneumatic
+"cockpit door not locking on VT-SYG. Troubleshooting IAW FIM carried out, door handle re-torqued",52,Doors
+VT-SYG right spoiler: LE FLAPS TRANSIT light stays on during cruise adjusted,27,Flight Controls
+panel lights dim during walkaround. L/H nav light replaced as per AMM. ops ck ok,33,Lights
+"seal in electronics bay intermittent, repaired IAW AMM",24,Electrical Power
+"REVERSER light on on VT-ABC. Troubleshooting ref AMM carried out, EEC re-secured.",72,Engine
+Crew reported exit sign not illuminating. nav liht reading 7 units. reset per TSM,33,Lights
+LH emergency light reading light u/s noted after landing,33,Lights
+system B qty decreasing on VT-RLA Troubleshooting IAW AMM carried out hyd reservoir cleaned and re-tested,29,Hydraulic Power
+"right portable extinguisher faulty. Removed P/N 64D2260 SN J746473, installed new. no fault found on retest",26,Fire Protection
+"door rigging out on VT-JKL. Troubleshooting IAW CMM carried out, door handle re-torqued",52,Doors
+lower passenger door girt bar not engaging observed during cruise,52,Doors
+Crew reported GWS INOP. TCAS reading 7 qts. adjusted ref AMM.,34,Navigation
+crossfeed valve replaced due to fuel imbalance,28,Fuel

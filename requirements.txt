@@ -1,0 +1,8 @@
+# Install PyTorch FIRST, separately (see README) - it depends on your GPU.
+pandas
+numpy
+scikit-learn
+matplotlib
+joblib
+streamlit
+transformers
